@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 :wave: I'm a Opensource entusiast, DevOps lover that tries to build a better tomorrow.
 
 Here are some ideas to get you started:
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about DevOps, Cloud, and anything related with Opensource.
 - 📫 How to reach me: just drop me a message [here](http://danielefontani.it)
 - ⚡ Fun fact: I'm involved into opensource since 2006
--->
+
 
 
 
